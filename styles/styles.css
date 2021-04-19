@@ -33,7 +33,15 @@
 	font-style: italic;
 }
 section{
-	width: 50%;
+	width: 100%;
+	padding: 15px;
+}
+section .text{
+	width: 70%;
+}
+#noticia {
+ 	width: 70%;
+ 	padding: 25px;
 }
 footer .final {
 	width: 100%;
