@@ -76,6 +76,11 @@ section .text{
 	margin: 10px;
 	width: 100%;
 }
+.comentarios{
+	width: 85%;
+	font-family: Corbel;
+	margin: 15px;
+}
 #facebook{
 	background-color: #4267B2;
 	border-color: white;
@@ -173,6 +178,11 @@ section .text{
 	margin: 10px;
 	width: 80%;
 	padding: 15px;
+}
+.comentarios{
+	width: 50%;
+	font-family: Corbel;
+	margin: 15px;
 }
 #facebook{
 	background-color: #4267B2;
